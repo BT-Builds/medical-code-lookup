@@ -45,3 +45,6 @@ Response:
 
 ## Authentication
 All endpoints except `/health` require `X-API-Key` header. Set your own key via `API_KEY` environment variable.
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/medical-code-lookup/main/postman_collection.json)
